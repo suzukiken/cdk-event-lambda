@@ -23,7 +23,6 @@
   "dependencies": {
     "@aws-cdk/aws-events": "^1.98.0",
     "@aws-cdk/aws-events-targets": "^1.98.0",
-    "@aws-cdk/aws-iam": "^1.98.0",
     "@aws-cdk/aws-lambda": "^1.98.0",
     "@aws-cdk/aws-lambda-python": "^1.98.0",
     "@aws-cdk/core": "1.98.0",
